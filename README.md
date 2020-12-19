@@ -1,6 +1,5 @@
 # Weather UI
 
-Weather App UI
 Every 15 seconds the weather forecast will be change, and you can download app in app release folder.
 
 # Sunny UI
