@@ -4,4 +4,4 @@ Every 15 seconds the weather forecast will be change, and you can download app i
 
 # Sunny UI
 
-![alt text](https://user-images.githubusercontent.com/22878682/102701839-f8fbb700-428d-11eb-9c1d-c7937d30d64f.jpg)
+![alt text](https://user-images.githubusercontent.com/22878682/102717101-b92ae300-4312-11eb-98c0-7265927a4619.gif)
